@@ -1,0 +1,15 @@
+services:
+  demoapplication.api:
+    build:
+      context: C:\dev\DemoApplication
+      dockerfile: DemoApplication.Api/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: demoapplicationapi
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\y1081\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+version: '3.4'

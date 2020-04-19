@@ -7,17 +7,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5CE3C59F-712
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tasks", "tasks", "{26E4104D-AB5C-424A-9800-576DE83C6A9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.WorkerTask", "DemoApplication.WorkerTask\DemoApplication.WorkerTask.csproj", "{B2489445-D330-4A40-9AE8-BC61A2A8D8A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.WorkerTask", "DemoApplication.WorkerTask\DemoApplication.WorkerTask.csproj", "{B2489445-D330-4A40-9AE8-BC61A2A8D8A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.IoC", "DemoApplication.IoC\DemoApplication.IoC.csproj", "{F67BEA41-8945-46AD-A3FE-E29B60E03C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.IoC", "DemoApplication.IoC\DemoApplication.IoC.csproj", "{F67BEA41-8945-46AD-A3FE-E29B60E03C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.Application", "DemoApplication.Application\DemoApplication.Application.csproj", "{83180ABD-C4F5-4278-98ED-9E141BEDBBC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.Application", "DemoApplication.Application\DemoApplication.Application.csproj", "{83180ABD-C4F5-4278-98ED-9E141BEDBBC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.Interfaces", "DemoApplication.Interfaces\DemoApplication.Interfaces.csproj", "{F1B1D88D-2EB5-4D14-B12D-9BEC00C8250F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.Interfaces", "DemoApplication.Interfaces\DemoApplication.Interfaces.csproj", "{F1B1D88D-2EB5-4D14-B12D-9BEC00C8250F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.Domain", "DemoApplication.Domain\DemoApplication.Domain.csproj", "{253CFD42-BAAB-498C-9A9E-DEA74B5F2488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.Domain", "DemoApplication.Domain\DemoApplication.Domain.csproj", "{253CFD42-BAAB-498C-9A9E-DEA74B5F2488}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoApplication.Api", "DemoApplication.Api\DemoApplication.Api.csproj", "{AC5AA5A0-F661-46DF-BF60-D6394B378943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoApplication.Api", "DemoApplication.Api\DemoApplication.Api.csproj", "{AC5AA5A0-F661-46DF-BF60-D6394B378943}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{18BA2E9F-AA86-487E-982F-4C2D69431B90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{AC5AA5A0-F661-46DF-BF60-D6394B378943}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC5AA5A0-F661-46DF-BF60-D6394B378943}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC5AA5A0-F661-46DF-BF60-D6394B378943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BA2E9F-AA86-487E-982F-4C2D69431B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BA2E9F-AA86-487E-982F-4C2D69431B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BA2E9F-AA86-487E-982F-4C2D69431B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BA2E9F-AA86-487E-982F-4C2D69431B90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

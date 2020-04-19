@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Venkatesh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\y1081\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+      "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
       "projectName": "DemoApplication.Domain",
-      "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
-      "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\obj\\",
+      "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+      "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

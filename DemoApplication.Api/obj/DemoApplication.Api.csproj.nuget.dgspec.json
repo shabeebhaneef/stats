@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj": {}
+    "C:\\dev\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj",
         "projectName": "DemoApplication.Api",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Api\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Api\\DemoApplication.Api.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,16 +22,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
               },
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj"
               }
             }
           }
@@ -47,6 +44,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,20 +72,17 @@
         }
       }
     },
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
         "projectName": "DemoApplication.Application",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,16 +90,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj"
               },
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
               }
             }
           }
@@ -131,20 +131,17 @@
         }
       }
     },
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
         "projectName": "DemoApplication.Domain",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Domain\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\DemoApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,7 +149,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -186,20 +183,17 @@
         }
       }
     },
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
         "projectName": "DemoApplication.Interfaces",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -207,7 +201,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -247,20 +241,17 @@
         }
       }
     },
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj",
         "projectName": "DemoApplication.IoC",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.IoC\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.IoC\\DemoApplication.IoC.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.IoC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,16 +259,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Application\\DemoApplication.Application.csproj"
               },
-              "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
+              "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+                "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj"
               }
             }
           }

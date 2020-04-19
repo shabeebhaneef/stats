@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  demoapplication.api:
+    image: ${DOCKER_REGISTRY-}demoapplicationapi
+    build:
+      context: .
+      dockerfile: DemoApplication.Api/Dockerfile

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {}
+    "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
+    "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "projectUniqueName": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
         "projectName": "DemoApplication.Interfaces",
-        "projectPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\Venkatesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkatesh\\source\\repos\\DemoApplication\\DemoApplication.Interfaces\\obj\\",
+        "projectPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\DemoApplication.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\y1081\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\DemoApplication\\DemoApplication.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Venkatesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\y1081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

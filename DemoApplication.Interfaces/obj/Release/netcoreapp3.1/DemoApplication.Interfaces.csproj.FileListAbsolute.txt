@@ -1,0 +1,9 @@
+C:\dev\DemoApplication\DemoApplication.Interfaces\bin\Release\netcoreapp3.1\DemoApplication.Interfaces.deps.json
+C:\dev\DemoApplication\DemoApplication.Interfaces\bin\Release\netcoreapp3.1\DemoApplication.Interfaces.dll
+C:\dev\DemoApplication\DemoApplication.Interfaces\bin\Release\netcoreapp3.1\DemoApplication.Interfaces.pdb
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.csprojAssemblyReference.cache
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.csproj.CoreCompileInputs.cache
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.AssemblyInfoInputs.cache
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.AssemblyInfo.cs
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.dll
+C:\dev\DemoApplication\DemoApplication.Interfaces\obj\Release\netcoreapp3.1\DemoApplication.Interfaces.pdb
