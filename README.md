@@ -4,6 +4,13 @@ Hi!
 
 This project is a collection of applicaitons used for demonstrating CI/CD pipelines and deployment over kuberenetes hosted in digital ocean. You can [View the Code here](https://github.com/shabeebhaneef/stats/) 
 
+
+### Infrastructure
+
+Source Code repo : https://github.com/shabeebhaneef/stats/
+Jenkins : http://64.225.84.22:30000/
+
+
 Following are the list of applications and a brief description of each. 
 
 ### DemoApplication API
