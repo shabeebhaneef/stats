@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## DemoApplication
 
-You can use the [editor on GitHub](https://github.com/shabeebhaneef/stats/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Hi!
+
+This project is a collection of applicaitons used for demonstrating CI/CD pipelines and deployment over kuberenetes hosted in digital ocean. You can [View the Code here](https://github.com/shabeebhaneef/stats/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### DemoApplicaiton API
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
