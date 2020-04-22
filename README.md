@@ -7,9 +7,11 @@ This project is a collection of applicaitons used for demonstrating CI/CD pipeli
 
 ### Infrastructure
 
-Source Code repo : https://github.com/shabeebhaneef/stats/
-Jenkins : http://64.225.84.22:30000/
-k8 Namespace: app-dev
+```markdown
+
+#### Source Code repo : https://github.com/shabeebhaneef/stats/
+#### Jenkins : http://64.225.84.22:30000/
+#### k8s Namespace: app-dev
 
 
 
