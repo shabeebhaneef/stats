@@ -22,12 +22,10 @@ Following are the list of applications and a brief description of each.
 This is a simple dotnet application that provides weather information over API calls. 
 You can get a local running instance by simply building the Dockerfile present inside the DemoApplication.api folder. 
 
+Local application can be accessed at 
 
-
-
-#### Application URL
-https://localhost:5001/weatherinfo
-Build Job: 
+* https://localhost:5001/weatherinfo
+* Build Job: 
 
 
 
