@@ -25,6 +25,6 @@ You can get a local running instance by simply building the Dockerfile present i
 https://localhost:5001/weatherinfo
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 
