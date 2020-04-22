@@ -6,7 +6,7 @@ This project is a collection of applicaitons used for demonstrating CI/CD pipeli
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### DemoApplicaiton API
+### DemoApplication API
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
