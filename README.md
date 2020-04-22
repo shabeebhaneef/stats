@@ -9,6 +9,8 @@ This project is a collection of applicaitons used for demonstrating CI/CD pipeli
 
 Source Code repo : https://github.com/shabeebhaneef/stats/
 Jenkins : http://64.225.84.22:30000/
+k8 Namespace: app-dev
+
 
 
 Following are the list of applications and a brief description of each. 
@@ -23,7 +25,7 @@ You can get a local running instance by simply building the Dockerfile present i
 
 # Application URL
 https://localhost:5001/weatherinfo
-
+Build Job: 
 
 
 
