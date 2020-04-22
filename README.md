@@ -8,20 +8,16 @@ Following are the list of applications and a brief description of each.
 
 ### DemoApplication API
 
-This application is a simple dotnet application that provides weather information over API calls. 
+This is a simple dotnet application that provides weather information over API calls. 
+You can get a local running instance by simply building the Dockerfile present inside the DemoApplication.api folder. 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Application URL
+https://localhost:5001/weatherinfo
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
