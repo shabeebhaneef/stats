@@ -7,13 +7,13 @@ This project is a collection of applicaitons used for demonstrating CI/CD pipeli
 
 ### Infrastructure
 
-```markdown
+
 
 Source Code repo : https://github.com/shabeebhaneef/stats/
  Jenkins : http://64.225.84.22:30000/
 k8s Namespace: app-dev
 
-```markdown
+
 
 Following are the list of applications and a brief description of each. 
 
@@ -22,7 +22,7 @@ Following are the list of applications and a brief description of each.
 This is a simple dotnet application that provides weather information over API calls. 
 You can get a local running instance by simply building the Dockerfile present inside the DemoApplication.api folder. 
 
-```markdown
+
 
 
 # Application URL
