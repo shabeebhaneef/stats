@@ -9,9 +9,9 @@ This project is a collection of applicaitons used for demonstrating CI/CD pipeli
 
 ```markdown
 
-#### Source Code repo : https://github.com/shabeebhaneef/stats/
-#### Jenkins : http://64.225.84.22:30000/
-#### k8s Namespace: app-dev
+Source Code repo : https://github.com/shabeebhaneef/stats/
+ Jenkins : http://64.225.84.22:30000/
+k8s Namespace: app-dev
 
 
 
