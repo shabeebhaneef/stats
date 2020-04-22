@@ -19,7 +19,7 @@ This is a simple dotnet application that provides weather information over API c
 You can get a local running instance by simply building the Dockerfile present inside the DemoApplication.api folder. 
 
 ```markdown
-Syntax highlighted code block
+
 
 # Application URL
 https://localhost:5001/weatherinfo
