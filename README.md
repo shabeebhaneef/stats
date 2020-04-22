@@ -4,11 +4,11 @@ Hi!
 
 This project is a collection of applicaitons used for demonstrating CI/CD pipelines and deployment over kuberenetes hosted in digital ocean. You can [View the Code here](https://github.com/shabeebhaneef/stats/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Following are the list of applications and a brief description of each. 
 
 ### DemoApplication API
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This application is a simple dotnet application that provides weather information over API calls. 
 
 ```markdown
 Syntax highlighted code block
